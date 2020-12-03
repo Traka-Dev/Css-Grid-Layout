@@ -1,2 +1,2 @@
 # Css-Grid-Layout
-Ejercicios de Curso de Css Grid Layout de Platzi
+Ejercicios de Curso de Css Grid Layout
