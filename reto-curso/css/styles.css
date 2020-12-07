@@ -164,3 +164,9 @@ header .header__nav .header__profile .header__profile__pic {
     font-weight: bold;
     margin-bottom: 15px;
 }
+
+@media screen and (max-width: 768px) {
+    .main-container .main__seasson .main__seasson-lista-capitulos {
+        gap: 3px;
+    }
+}
